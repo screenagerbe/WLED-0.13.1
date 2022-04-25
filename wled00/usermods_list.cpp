@@ -16,7 +16,7 @@
 #endif
 
 #ifdef USERMOD_DALLASTEMPERATURE
-#include "../usermods/Temperature/usermod_temperature.h"
+include "../usermods/usermod_temperature.h"
 #endif
 
 #ifdef USERMOD_SN_PHOTORESISTOR
